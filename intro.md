@@ -1,16 +1,26 @@
-# Welcome to your Jupyter Book
+# HarmonyEarth
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Storytelling guidelines for a harmonious future to prevent WW3.. 
 
-:::{note}
-Here is a note!
-:::
+Produce a truly intercultural, multilingual sci-fi "Star Trek" that de-glorifies violence, glamorizes discourse, and villanizes incompetence/hypocrisy instead of identity. These cinematic parables ethically navigate making mistakes, learning new evidence, then displaying responsibility, reorientation, and reconciliation. Each episode showcases coooperation in spite of cultural dissimilarities, with characters hailing from all corners of Earth with special emphasis on China, US, India, Indonesia, Pakistan, and Nigeria.
 
-And here is a code block:
+Harmonious future = hafu?
 
+## Craftsmanship 匠人精神
+Every decision is design. Composition, contrast, and color are important, but so are words. To carefully consider every detail respects yourself and respects the user.
+
+```{dropdown} Inspiration
+(Deiter Rams elements of design)[https://www.google.com]
 ```
-e = mc^2
-```
 
-Check out the content pages bundled with this sample book to see more.
+## Parables
+
+
+## Intellectual Merit
+Responsibility of Intellecutals
+
+
+
+## Starter Reading
+The Responsibility of Intellectuals by Noam Chomsky
+
