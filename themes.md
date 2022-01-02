@@ -1,5 +1,10 @@
 # Themes
 
+## Identity
+Us vs Them is the greatest enemy of peace.
+
+## Contest of Values
+
 (themes:linguisticDrama)=
 ## Linguistic Drama
 There is much drama and revelation to be found in the simple act of communicating between languages, with Wittgenstein's insight of "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt" a succinct reminder. Most of Hollywood's "diverse" films are a thin veneer of genetic phenotypes spouting narrow American values. I fear a world where a small group of provincial cynics in LA construct a cultural hegemony that stereotypes the living cultures of Earth. What interesting drama can be found in contrasting internal systems of mind? 

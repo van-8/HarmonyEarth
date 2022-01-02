@@ -1,12 +1,30 @@
 # Star Trek Successes & Failures
 
-Star Trek: The Next Generation (Series Bible)[http://leethomson.myzen.co.uk/Star_Trek/2_The_Next_Generation/Star_Trek_-_The_Next_Generation_Bible.pdf] by Gene Roddenberry (1987.03.23).
+## Goals
 
+Show how stupid war & violence is. And how terrible people who worship it are.
+Teach reality. Propagate truth instead of fantasy. First aid myths. Stereotypes of cultures
+
+
+
+Rebels don't bring peace. Governments bring actual stability and prosperity to people's lives.
+
+Guns don't solve problems. They make them worse. Raise authoritative voices, reward good behavior.
+
+True dangers: violence, repulsive, hateful, abusive, harassment, bullying, harmful or dangerous acts, child abuse, promotes terrorism, spam or misleading, infringing copyright or privacy.
+
+From YouTube Community Guidelines
+
+
+
+
+## Star Trek Inspo
+Star Trek: The Next Generation (Series Bible)[http://leethomson.myzen.co.uk/Star_Trek/2_The_Next_Generation/Star_Trek_-_The_Next_Generation_Bible.pdf] by Gene Roddenberry (1987.03.23).
 
 Ship's Mission:
 To expand the body of human knowledge.
 
-To provide assistance as required to Earth/Federatino colonies, commerce and travelers.
+To provide assistance as required to Earth/Federation colonies, commerce and travelers.
 
 To provide for Earth/Federation security.
 
@@ -16,20 +34,20 @@ To provide further understanding of the universe and humanity's place in it. "Wh
 
 **Ensemble Cast.** Not a star and co-star series, but a family ensemble in which the continuing characters felt great affection for each other, allowing the audience to identify with and share that same affection.
 
-**Action-Adventure Entertainment.**  Premises involving the challanges facing humanity today (1980-90s) with vivid imagination, intelligence, and sense of fun. The sci-fi elemnt should be thought-provoking. Need not be a planetary or galactic event, can be smaller, more personal.
+**Action-Adventure Entertainment.**  Premises involving the challenges facing humanity today (1980-90s) with vivid imagination, intelligence, and sense of fun. The sci-fi element should be thought-provoking. Need not be a planetary or galactic event, can be smaller, more personal.
 
 **Believability.** Would I believe this happened on the battleship *Missouri* in the 20th century? Stories are dilemmas created by the nature of the characters, the plot, or by a sci-fi element. How would human beings cope with fantastic situations?
 
 **Aspirational.**Characters are intelligent, witty, thoughtful, caring human beings. They have weaknesses and failings, but have been slected because of their ability to *transcend* their human failings.
 
-**Ship's log as narrative device to move story rapidly and economically.** A few words can replace several scenes. Also allows characters to annotate their personal responses and feelings about a situation as it's occuring.
+**Ship's log as narrative device to move story rapidly and economically.** A few words can replace several scenes. Also allows characters to annotate their personal responses and feelings about a situation as it's occurring.
 
 
 
 
 ### What Doesn't Work
 
-**Stories which do not materially involve our own crew.** New characters are only interesting in addtion to continuing characters.
+**Stories which do not materially involve our own crew.** New characters are only interesting in addition to continuing characters.
 
 **Stories about psi-forces or mysterious psychic powers.** No matter how fantastic, the explanation must be extrapolated from a generally accepted science theory. 
 
@@ -43,9 +61,9 @@ To provide further understanding of the universe and humanity's place in it. "Wh
 
 **Plots involving a whole civilization rarely work.** What does work is specific character from another culture and their interactions with continuing characters.
 
-**Mad scientists, or stories where technology is considered the villain.**  Our lives depend on technology. The cast are not Luddittes.
+**Mad scientists, or stories where technology is considered the villain.**  Our lives depend on technology. The cast are not Luddites.
 
-**Stories in which characters must do something stupid or dangerous in order to create jeopardy.**  Our people are the best and the brightest, commitest to their crew mates and their mission.
+**Stories in which characters must do something stupid or dangerous in order to create jeopardy.**  Our people are the best and the brightest, committed to their crew mates and their mission.
 
 
 
@@ -73,9 +91,9 @@ To provide further understanding of the universe and humanity's place in it. "Wh
 
 **Sensor data is a source of drama.** The validity of data, the refinement of sensory collection, and the interpretation of evidence are a wonderful source of drama and a chance at education. There are no "sensors show" because WHAT equipment is detecting WHAT and HOW?
 
-**Prime Directive.** Starfleet General Order Number one says "we do not have the right to interfere with the natural process of evolution on oany planet." But what does it mean to interfere? Explore this concept, especially contrasting U.S. 20th century intervention and China non-intervention.
+**Prime Directive.** Starfleet General Order Number one says "we do not have the right to interfere with the natural process of evolution on any planet." But what does it mean to interfere? Explore this concept, especially contrasting U.S. 20th century intervention and China non-intervention.
 
-**Knives are useful.** Argueably the first tool, knives may change in material but not in function. Forms evolve for specific use cases. A lived in universe means cheap, simple, useful things don't disappear. Knives, toilets, kitchens, beds may get fancier, but still cater to basic needs.
+**Knives are useful.** Arguably the first tool, knives may change in material but not in function. Forms evolve for specific use cases. A lived in universe means cheap, simple, useful things don't disappear. Knives, toilets, kitchens, beds may get fancier, but still cater to basic needs.
 
 
 **Weapons are nonlethal.** Unethical to harm, so with overwhelmingly advanced tech, there is no need to hurt others. You COULD crush a butterfly, but it can't harm you so why not let it go?
@@ -87,6 +105,10 @@ Transporters. Tractor beams. Warp drive?
 
 
 ## Firefly Inspo
+
+Irreverent humor in the face of serious situations.
+Characters with actual and plausible strengths and weaknesses.
+
 
 Notes from (The Writing Process)[http://fireflyfans.net/firefly/espenson.htm] by Jane Espenson.
 
