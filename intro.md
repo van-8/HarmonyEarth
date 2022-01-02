@@ -6,6 +6,8 @@ Produce a truly intercultural, multilingual sci-fi "Star Trek" that de-glorifies
 
 Harmonious future = hafu?
 
+The adventure to improve the wellbeing of conscious beings of Earth.
+
 ## Craftsmanship 匠人精神
 Every decision is design. Composition, contrast, and color are important, but so are words. To carefully consider every detail respects yourself and respects the user.
 
