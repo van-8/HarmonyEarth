@@ -15,7 +15,7 @@ True dangers: violence, repulsive, hateful, abusive, harassment, bullying, harmf
 
 From YouTube Community Guidelines
 
-
+博学，诚信，求索，笃行 (Erudition, Honesty, Endeavour, Perfection)
 
 
 ## Star Trek Inspo
