@@ -1,9 +1,26 @@
 # Guidelines
 
-Do not use footnotes. They rip the user away from the context. Instead, use margins, dropdowns or tabs.
+The audience is a user, not just a viewer. They bring their priors, predictions, and affect to the content we output (visual, sound, temperature, comfort).
+
+Words are design. Choose them carefully. Brevity respects the user.
+
+Be nutritious. 
 
 
-Words are design. Choose them carefully.
+### Science?
+1. Observe.
+2. Write it down.
+3. Compare notes and improve.
+   
+## Validating Languages
+Help someone feel heard and accepted.
+- I'd also be scared if someone bigger was threatening me.
+- That sounds like it would be painful.
+- That must have been hard for you.
+- I can see why you had a difficult day.
+- I think most people would be upset by that, too.
+Since they no longer need to defend or justify themselves, they are likely to see the problem with you instead of against you.
+
 
 
 
