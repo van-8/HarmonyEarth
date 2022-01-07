@@ -25,48 +25,97 @@ Since they no longer need to defend or justify themselves, they are likely to se
 
 
 ## Deiter Rams - Gutes Design
+https://www.vitsoe.com/us/about/good-design
 
 1. Gutes Design ist innovativ
 
 Die Möglichkeiten für Innovation sind längst nicht ausgeschöpft. Die technologische Entwicklung bietet immer wieder neue Ausgangspunkte für zukunftsfähige Gestaltungskonzepte, die den Gebrauchswert eines Produktes optimieren. Dabei entsteht innovatives Design stets im Zusammenschluss mit innovativer Technik und ist niemals Selbstzweck.
 
+Good design is innovative
+
+The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.
+
 2. Gutes Design macht ein Produkt brauchbar
 
 Man kauft ein Produkt, um es zu benutzen. Es soll bestimmte Funktionen erfüllen – Primärfunktionen ebenso wie ergänzende psychologische und ästhetische Funktionen. Gutes Design optimiert die Brauchbarkeit und lässt alles unberücksichtigt, was nicht diesem Ziel dient oder ihm gar entgegensteht.
+
+Good design makes a product useful
+
+A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasizes the usefulness of a product whilst disregarding anything that could possibly detract from it.
+
 
 3. Gutes Design ist ästhetisch
 
 Die ästhetische Qualität eines Produktes ist integraler Aspekt seiner Brauchbarkeit. Denn Geräte, die man täglich benutzt, prägen das persönliche Umfeld und beeinflussen das Wohlbefinden. Schön sein kann aber nur, was gut gemacht ist.
 
+Good design is aesthetic
+
+The aesthetic quality of a product is integral to its usefulness because products we use every day affect our person and our well-being. But only well-executed objects can be beautiful.
+
 4. Gutes Design macht ein Produkt verständlich
 
 Es verdeutlicht auf einleuchtende Weise die Struktur des Produkts. Mehr noch: Es kann das Produkt zum Sprechen bringen. Im besten Fall erklärt es sich dann selbst.
+
+Good design makes a product understandable
+
+It clarifies the product’s structure. Better still, it can make the product talk. At best, it is self-explanatory.
+
 
 5. Gutes Design ist unaufdringlich
 
 Produkte, die einen Zweck erfüllen, haben Werkzeugcharakter. Sie sind weder dekorative Objekte noch Kunstwerke. Ihr Design sollte deshalb neutral sein, die Geräte zurücktreten lassen und dem Menschen Raum zur Selbstverwirklichung geben.
 
+Good design is unobtrusive
+
+Products fulfilling a purpose are like tools. They are neither decorative objects nor works of art. Their design should therefore be both neutral and restrained, to leave room for the user’s self-expression.
+
+
 6. Gutes Design ist ehrlich
 
 Es lässt ein Produkt nicht innovativer, leistungsfähiger, wertvoller erscheinen, als es in Wirklichkeit ist. Es versucht nicht, den Verbraucher durch Versprechen zu manipulieren, die es dann nicht halten kann.
+
+Good design is honest
+
+It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.
 
 7. Gutes Design ist langlebig
 
 Es vermeidet, modisch zu sein, und wirkt deshalb nie antiquiert. Im deutlichen Gegensatz zu kurzlebigem Mode-Design überdauert es auch in der heutigen Wegwerfgesellschaft lange Jahre.
 
+Good design is long-lasting
+
+It avoids being fashionable and therefore never appears antiquated. Unlike fashionable design, it lasts many years – even in today’s throwaway society.
+
+
 8. Gutes Design ist konsequent bis ins letzte Detail
 
 Nichts darf der Willkür oder dem Zufall überlassen werden. Gründlichkeit und Genauigkeit der Gestaltung sind letztlich Ausdruck des Respekts dem Verbraucher gegenüber.
 
+Good design is thorough down to the last detail
+
+Nothing must be arbitrary or left to chance. Care and accuracy in the design process show respect towards the user.
+
 9. Gutes Design ist umweltfreundlich
 
 Design leistet einen wichtigen Beitrag zur Erhaltung der Umwelt. Es bezieht die Schonung der Ressourcen ebenso wie die Minimierung von physischer und visueller Verschmutzung in die Produktgestaltung ein.
+
+Good design is environmentally-friendly
+
+Design makes an important contribution to the preservation of the environment. It conserves resources and minimizes physical and visual pollution throughout the lifecycle of the product.
 
 10. Gutes Design ist so wenig Design wie möglich
 
 Weniger Design ist mehr, konzentriert es sich doch auf das Wesentliche, statt die Produkte mit Überflüssigem zu befrachten.
 
 Zurück zum Puren, zum Einfachen!
+
+Good design is as little design as possible
+
+Less, but better – because it concentrates on the essential aspects, and the products are not burdened with non-essentials.
+
+Back to purity, back to simplicity.
+
+
 
 ## Joss Whedon 10 Writing Tips
 Catherine Bray interview in 2006 for movie magazine Hotdog.
