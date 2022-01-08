@@ -27,22 +27,24 @@ Since they no longer need to defend or justify themselves, they are likely to se
 ## Deiter Rams - Gutes Design
 https://www.vitsoe.com/us/about/good-design
 
-1. Gutes Design ist innovativ
-
+```{tabbed} Deutsch
+#### 1. Gutes Design ist innovativ
 Die Möglichkeiten für Innovation sind längst nicht ausgeschöpft. Die technologische Entwicklung bietet immer wieder neue Ausgangspunkte für zukunftsfähige Gestaltungskonzepte, die den Gebrauchswert eines Produktes optimieren. Dabei entsteht innovatives Design stets im Zusammenschluss mit innovativer Technik und ist niemals Selbstzweck.
-
-Good design is innovative
-
+```
+```{tabbed} English
+1. Good design is innovative
 The possibilities for innovation are not, by any means, exhausted. Technological development is always offering new opportunities for innovative design. But innovative design always develops in tandem with innovative technology, and can never be an end in itself.
-
+```
+```{tabbed} Deutsch
 2. Gutes Design macht ein Produkt brauchbar
 
 Man kauft ein Produkt, um es zu benutzen. Es soll bestimmte Funktionen erfüllen – Primärfunktionen ebenso wie ergänzende psychologische und ästhetische Funktionen. Gutes Design optimiert die Brauchbarkeit und lässt alles unberücksichtigt, was nicht diesem Ziel dient oder ihm gar entgegensteht.
-
-Good design makes a product useful
+```
+```{tabbed} English
+2. Good design makes a product useful
 
 A product is bought to be used. It has to satisfy certain criteria, not only functional, but also psychological and aesthetic. Good design emphasizes the usefulness of a product whilst disregarding anything that could possibly detract from it.
-
+```
 
 3. Gutes Design ist ästhetisch
 
