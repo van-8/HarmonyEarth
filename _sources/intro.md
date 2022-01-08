@@ -8,17 +8,17 @@ Harmonious future = hafu?
 
 The adventure to improve the wellbeing of conscious beings of Earth.
 
-##### Craftsmanship 匠人精神 just checking
+## Craftsmanship just checking
 Every decision is design. Composition, contrast, and color are important, but so are words. To carefully consider every detail respects yourself and respects the user.
 
 ### Parables
 
 
-### Intellectual Merit
+#### Intellectual Merit
 Responsibility of Intellecutals
 
 
 
-### Starter Reading
+##### Starter Reading
 The Responsibility of Intellectuals by Noam Chomsky
 

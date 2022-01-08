@@ -45,7 +45,7 @@ To provide further understanding of the universe and humanity's place in it. "Wh
 
 
 
-### What Doesn't Work
+## What Doesn't Work
 
 **Stories which do not materially involve our own crew.** New characters are only interesting in addition to continuing characters.
 
@@ -83,17 +83,17 @@ To provide further understanding of the universe and humanity's place in it. "Wh
 
 
 
-## Props
-
-**Keys are like phones of 2020.** But are AR devices for eyes and to the ear, with a tactile control ring, watch, or fingerless glove. Keys allow persons to authenticate into systems and access the internet & apps. They are designed & manufactured by tech companies, with new models, updates to OS, incompatibilities between them, fanboys & haters.
+## Possible Props
 
 **Food is part of life.** Although there are modern nutrient products for cheap/fast, even the MRE is various in flavor. Synbio allows novel flavors and profiles of protein, carbs, and fats. Unlike Star Trek, food and food culture should be a wonderful part of the series.
 
+**_Keys_ are like phones of the 21st c.** AR devices for eyes, piece for the ear, with a tactile control ring, watch, or fingerless glove. Keys allow persons to authenticate into systems and access the internet & apps. They are designed & manufactured by tech companies, with new models, updates to OS, incompatibilities between them, fanboys & haters.
+
 **Sensor data is a source of drama.** The validity of data, the refinement of sensory collection, and the interpretation of evidence are a wonderful source of drama and a chance at education. There are no "sensors show" because WHAT equipment is detecting WHAT and HOW?
 
-**Prime Directive.** Starfleet General Order Number one says "we do not have the right to interfere with the natural process of evolution on any planet." But what does it mean to interfere? Explore this concept, especially contrasting U.S. 20th century intervention and China non-intervention.
+**Prime Directive.** Starfleet General Order Number one says "we do not have the right to interfere with the natural process of evolution on any planet." But what does it mean to interfere? Explore this concept, especially contrasting U.S. 20th century intervention and China non-intervention. 
 
-**Knives are useful.** Arguably the first tool, knives may change in material but not in function. Forms evolve for specific use cases. A lived in universe means cheap, simple, useful things don't disappear. Knives, toilets, kitchens, beds may get fancier, but still cater to basic needs.
+**Knives forever useful.** Arguably the first tool, knives may change in material but not in function. Forms evolve for specific use cases. A lived in universe means cheap, simple, useful things don't disappear. Knives, toilets, kitchens, beds may get fancier, but still cater to basic needs.
 
 
 **Weapons are nonlethal.** Unethical to harm, so with overwhelmingly advanced tech, there is no need to hurt others. You COULD crush a butterfly, but it can't harm you so why not let it go?
