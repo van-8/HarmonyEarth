@@ -9,16 +9,18 @@ Us vs Them is the greatest enemy of peace.
 ## Linguistic Drama
 There is much drama and revelation to be found in the simple act of communicating between languages, with Wittgenstein's insight of "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt" a succinct reminder. Most of Hollywood's "diverse" films are a thin veneer of genetic phenotypes spouting narrow American values. I fear a world where a small group of provincial cynics in LA construct a cultural hegemony that stereotypes the living cultures of Earth. What interesting drama can be found in contrasting internal systems of mind? 
 
-```{dropdown} Examples
+```{dropdown} Recommended Reading
 (Google link)[https://www.google.com]
 ```
 (themes:complexity)=
 ## Complexity
 The infrastructure that enables modern life is incredibly complex. Those who seek to become engineers, doctors, lawyers, even yoga teachers require years of education and continual qualification so as not to endanger the public. Yet some countries choose their government officials & leaders by beauty pagent. If "debates" are now reality television, and if the "informed voter" is an impossibility in such a complex built environment, are we reaching the cognitive limits of representative democracy?
 ```{margin} References
-[Theory of Constructed Emotion](https://www.google.com)
-[Theory of Constructed Emotion 2](https://www.google.com)
-[Theory of Constructed Emotion 3](https://www.google.com)
+[- Theory of Constructed Emotion](https://www.google.com)
+
+[- Other reference here](https://www.google.com)
+
+[- Third reference](https://www.google.com)
 ```
 
 <<<<<<< HEAD
@@ -31,7 +33,10 @@ People in Vietnam call the conflict between 1954-75 the "Resistance War against 
 ## Genetic Diversification
 As natural selection pressures are dissolved by the built environment, our species may diversify like arthopods, with fantastically different physical & mental characteristics. Candace McCullough and Sharon Duchesneau, both born deaf, intentionally chose a sperm donor who had 5 generations of deafness so to conceive a deaf child. They "don't view deafness as a disability...but a cultural identity." What reevaluations need to be had as the human species displays increasingly divergent phenotypes? How do we embrace variation as the norm?
 
-## Textbooks, instead of comic books, as source material
+## CoEvo (Gene Culture Coevolution)
+
+
+## Textbooks, instead of comic books
 Incredible resources and time are invested in creating amazing fictional universes. What if those same resources were put towards education instead of entertainment? What if Netflix released a series on neuroanatomy, or HBO created a series on material science? If children collected and memorized hundreds of polypeptides instead of Pokemon?
 
 ## Enjoyable Inefficiency
