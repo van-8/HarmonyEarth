@@ -8,13 +8,13 @@ Harmonious future = hafu?
 
 The adventure to improve the wellbeing of conscious beings of Earth.
 
-## Craftsmanship just checking
+## Craftsmanship
 Every decision is design. Composition, contrast, and color are important, but so are words. To carefully consider every detail respects yourself and respects the user.
 
-### Parables
+## Hard Scifi Thought Experiments
+Controlling certain variables to test the outer limits of society.
 
-
-#### Intellectual Merit
+## Intellectual Merit
 Responsibility of Intellecutals
 
 
