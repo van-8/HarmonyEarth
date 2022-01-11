@@ -1,16 +1,24 @@
-# Welcome to your Jupyter Book
+# HarmonyEarth
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Storytelling guidelines for a harmonious future to prevent WW3.. 
 
-:::{note}
-Here is a note!
-:::
+Produce a truly intercultural, multilingual sci-fi "Star Trek" that de-glorifies violence, glamorizes discourse, and villanizes incompetence/hypocrisy instead of identity. These cinematic parables ethically navigate making mistakes, learning new evidence, then displaying responsibility, reorientation, and reconciliation. Each episode showcases coooperation in spite of cultural dissimilarities, with characters hailing from all corners of Earth with special emphasis on China, US, India, Indonesia, Pakistan, and Nigeria.
 
-And here is a code block:
+Harmonious future = hafu?
 
-```
-e = mc^2
-```
+The adventure to improve the wellbeing of conscious beings of Earth.
 
-Check out the content pages bundled with this sample book to see more.
+## Craftsmanship just checking
+Every decision is design. Composition, contrast, and color are important, but so are words. To carefully consider every detail respects yourself and respects the user.
+
+### Parables
+
+
+#### Intellectual Merit
+Responsibility of Intellecutals
+
+
+
+##### Starter Reading
+The Responsibility of Intellectuals by Noam Chomsky
+

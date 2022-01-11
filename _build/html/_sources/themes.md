@@ -21,13 +21,6 @@ The infrastructure that enables modern life is incredibly complex. Those who see
 [Theory of Constructed Emotion 3](https://www.google.com)
 ```
 
-<<<<<<< HEAD
-## War Naming
-People in Vietnam call the conflict between 1954-75 the "Resistance War against America." Americans call it the "Vietnam War." 2 million civilians, 1.1 million Vietnamese combatants, and 57,939 US combatants died. At max, 500,000 U.S. military were sent to Vietnam. 
-
-
-=======
->>>>>>> 564a4656ac25d9de4e73a7d116b57b5f2c3c2028
 ## Genetic Diversification
 As natural selection pressures are dissolved by the built environment, our species may diversify like arthopods, with fantastically different physical & mental characteristics. Candace McCullough and Sharon Duchesneau, both born deaf, intentionally chose a sperm donor who had 5 generations of deafness so to conceive a deaf child. They "don't view deafness as a disability...but a cultural identity." What reevaluations need to be had as the human species displays increasingly divergent phenotypes? How do we embrace variation as the norm?
 
