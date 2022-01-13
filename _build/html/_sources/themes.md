@@ -1,4 +1,6 @@
 # Themes
+Weaving emotional threads with teachings on factual reality.
+
 
 ## Identity
 Us vs Them is the greatest enemy of peace.

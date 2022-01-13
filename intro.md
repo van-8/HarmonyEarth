@@ -19,6 +19,24 @@ Responsibility of Intellecutals
 
 
 
-##### Starter Reading
-The Responsibility of Intellectuals by Noam Chomsky
+# Terminology
 
+(priors)=
+## Priors
+The expectations and past experiences a person brings to a certain situation. For example: languages they understand, familiarity with a situation, cultural expectations, etc. Priors feed into predictions. The term comes from Bayesian statistical inference.
+
+(users)=
+## Users
+Watching and listening are not passive actions. Just as with an app or a device, a person brings their {term}`priors`, predictions, and affect to the story. Deprecate the terms "audience" and "viewer." 
+
+    quoteable code block
+
+(intend)=
+## Intend
+The brain does not have "circuits" or "parts" for sadness or happiness. There is nothing for experineers to "turn on." So we can only *intend* to nudge towards a certain affective state, conceptual memory, or other prior.
+
+Nudging towards.
+
+(perceive)=
+## Perceive
+Brain states cannot be recognized, they can only be perceived. {ref}`users` guess at each others brain state.
