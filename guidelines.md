@@ -1,5 +1,6 @@
 # Guidelines
 
+
 The audience is a user, not just a viewer. They bring their priors, predictions, and affect to the content we output (visual, sound, temperature, comfort).
 
 Words are design. Choose them carefully. Brevity respects the user.
@@ -20,8 +21,6 @@ Help someone feel heard and accepted.
 - I can see why you had a difficult day.
 - I think most people would be upset by that, too.
 Since they no longer need to defend or justify themselves, they are likely to see the problem with you instead of against you.
-
-
 
 
 ## Deiter Rams - Gutes Design

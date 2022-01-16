@@ -64,3 +64,7 @@ Synthetic biology will enable the creation anything, from designer hallucinegeni
 
 ## Paparazzi and Pranksters
 Many cultures don't consider the creation of humor/pseudodrama as justification for unethical behavior. Japan, UAE, Singapore, China are a few places where many "pranks" are considred criminal. China has strict moderation of paparrazzi/gossip media. With increasingly powerful digital/biological tools that can create lasting trauma, what new limits should be considered? Is it funny to "prank" a schoolmate into commiting suicide?
+
+
+## Audience Capture
+Doing what the mass of clients want instead of what is right. Influenced by algorithms and misinformation.
