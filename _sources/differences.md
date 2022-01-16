@@ -13,3 +13,9 @@
 10. Lack of modesty. Greatest country. Proud of not knowing other languages or understanding other cultures. Don't even know they are just a measly 4% of the world population. Can't even name other countries on a map. 
 11. Evangelical. It's not enough to be right. You have to CONVERT other people to think exactly like you, to do exactly what YOU do, do it exactly how YOU do it. 
 12. Veneered diversity. SInce so much genetic diversity and physical phenotypes, there is an ongoing fight for representation. But what may be unknown to many is how this is for Americans. This doesn't represent other people of other countries. Some Americans will claim to be "German" without any understanding of German history or culture, don't even mention German language. 
+
+Speed Dating. Americans tend to quickly signal their "identity." Progressive vs Conservative, Republican vs Democrat. Many other cultures tend to take things slower. Related to low standards for "friendship."
+
+
+### Other priors
+Other {ref}`priors` can be found.
