@@ -1,6 +1,6 @@
-# With Great Power comes great responsibility. 
+# Great Responsibility 
 
-Storytellers scaffold people's reality, so we hold a duty of care.
+Storytellers scaffold people's reality. With this great power comes great responsibility, legally called a duty of care.
 
 ## Retiring bad concepts
 
