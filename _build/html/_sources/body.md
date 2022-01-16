@@ -1,4 +1,5 @@
-# How the Brain Works is a selection from the corpus. 
+# How the Brain Works 
+A selection from the corpus. Will continue to evolve.
 
 This consensus will constantly evolve.
 
