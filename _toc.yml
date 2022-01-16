@@ -5,9 +5,12 @@ format: jb-book
 root: intro
 chapters:
 - file: guidelines
+- file: body
+- file: neurotools
+- file: responsibility
 - file: startrek
 - file: themes
   sections:
   - file: themes/complexity
-- file: differences
-# - file: notebooks
+  - file: differences
+- file: notebooks
