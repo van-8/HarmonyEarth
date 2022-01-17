@@ -23,6 +23,12 @@ Help someone feel heard and accepted.
 Since they no longer need to defend or justify themselves, they are likely to see the problem with you instead of against you.
 
 
+## Race is Stupid
+
+[Melanin distribution from the dermal–epidermal junction to the stratum corneum: non-invasive in vivo assessment by fluorescence and Raman microspectroscopy](https://www.nature.com/articles/s41598-020-71220-6)
+
+
+
 ## Deiter Rams - Gutes Design
 [SOURCE: Vitsœ website](https://www.vitsoe.com/us/about/good-design)
 
