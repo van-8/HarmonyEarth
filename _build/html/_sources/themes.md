@@ -84,8 +84,12 @@ The dangers of misinformation have manifest clearly during this current pandemic
 
 Freedome to Punch/Speech
 
+Rarity Value Thesis
 
 Inventive Awfulness
+
+## Disagreement is a Feature
+Show people science must have disagreement. 
 
 ## Degeneracy (biology)
 Defined by biologists as "the ability of structurally different elements to perform similarly under certain conditions, but perform distinct functions in other conditions." Degeneracy is observed in the natural world (genes, protein folding, neuroanatomy) and also in our constructed world (governance structures, economic paradigms, cultural norms.) Will America's evangelical obsession to "convert" other peoples to its values & systems reduce the robustness of human civilization to address climate change, bio-terror, etc?
@@ -97,7 +101,9 @@ Imagine an intelligent, moral President of the US is elected. What actions shoul
 
 Is it your fault you don't speak Dzongka? Only a few 100,000 people, ? what % of humanity?
 
-**Is it a 5 year old child's fault if they are a white supremecist?** Through pure luck of birth, everything the child has ever experienced groomed them towards hating people with differing carotene pigments in adipos tissue and melanin concentration in their epidermis. 
+**Is it a 5 year old child's fault if they are a white supremecist?** Through pure luck of birth, everything the child has ever experienced groomed them towards hating people with differing carotene pigments in adipos tissue and melanin concentration in their epidermis. The same luck that decided your mother-tongue created a hate-filled environment of parents, media, and life experiences. If this hate motivates a crime, where is the fault?
+
+In some jurisdictions, children under 12 are considered incapable of breaking the law and are considered victims instead of offenders.
 
 
 

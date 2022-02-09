@@ -1,7 +1,7 @@
 # Guidelines
 
 
-The audience is a user, not just a viewer. They bring their priors, predictions, and affect to the content we output (visual, sound, temperature, comfort).
+The audience is a user, not just a viewer. They bring their priors, predictions, and affect to the content (visual, sound, temperature, valence, energy).
 
 Words are design. Choose them carefully. Brevity respects the user.
 
@@ -13,6 +13,10 @@ Be nutritious.
 2. Write it down.
 3. Compare notes and improve.
    
+
+## Kindness
+Treat everyone as kindly as you would diaper-changing a 5 day old infant: gentle, firm, forgiving.
+
 ## Validating Languages
 Help someone feel heard and accepted.
 - I'd also be scared if someone bigger was threatening me.
@@ -21,6 +25,9 @@ Help someone feel heard and accepted.
 - I can see why you had a difficult day.
 - I think most people would be upset by that, too.
 Since they no longer need to defend or justify themselves, they are likely to see the problem with you instead of against you.
+
+## High-divers
+High divers effortlessly do things that are impossible for most people. But with years of physical training, mental fortitude, and earned experience, the insanely dangerous becomes possible. Showcase all professionals like this.
 
 
 ## Race is Stupid
